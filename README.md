@@ -36,12 +36,11 @@ Our services are not intended for medical emergencies. If you are experiencing a
 
 2. SMS Communications
 
-By providing your mobile phone number and opting in, you agree to receive SMS communications from AFC Urgent Care Willowbrook related to:
-- Appointment scheduling
-- Appointment reminders
-- Visit updates
-- Follow-up care
-- Customer service communications
+By providing your mobile phone number and opting in, you agree to receive conversational SMS communications from AFC Urgent Care Willowbrook related only to:
+
+- Appointment scheduling conversations
+- Visit update conversations
+- Follow-up communication conversations regarding your care
 
 Message frequency may vary.
 
