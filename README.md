@@ -11,7 +11,16 @@ Willowbrook, IL 60527-1705
 Phone: +1 (331) 251-4805
 Email: fosterhealthpllc@gmail.com
 
-By using our services or opting into SMS communications, you agree to these Terms.
+By providing your mobile number and opting in to receive SMS messages from AFC Urgent Care Willowbrook, you agree to receive conversational messages.
+
+SMS Terms:
+
+Message frequency may vary. On average, 1-2 messages per month.
+Message and data rates may apply.
+Reply STOP to opt out at any time.
+Reply HELP for assistance.
+Privacy Policy:
+[https://github.com/gotoconnecttestuser-arch/Foster_Health_PLLC_PP_Willowbrook](https://github.com/gotoconnecttestuser-arch/Foster_Health_PLLC_PP_Willowbrook)
 
 1. Healthcare Services
 
